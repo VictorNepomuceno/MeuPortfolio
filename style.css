@@ -1,0 +1,12 @@
+body {
+    color: #333;
+    background-color: lightblue;
+}
+
+footer {
+    background-color: #fff;
+    color: lightblue;
+    font-weight: bolder;
+    border-radius: 30px;
+    padding: 1rem 0;
+}
